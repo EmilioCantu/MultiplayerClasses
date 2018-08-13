@@ -1,0 +1,3 @@
+C:\Users\Emili\Documents\Unreal Projects\StealthGame\StealthGameTemplate417\Source\FPSGame\FPSGame.Build.cs
+C:\Users\Emili\Documents\Unreal Projects\StealthGame\StealthGameTemplate417\Source\FPSGame.Target.cs
+C:\Users\Emili\Documents\Unreal Projects\StealthGame\StealthGameTemplate417\Source\FPSGameEditor.Target.cs
