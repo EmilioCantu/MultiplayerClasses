@@ -1,0 +1,1651 @@
+﻿Log file open, 08/12/18 21:14:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FPSGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1665041007) SRandInit(1665041007).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259903
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  -skipcompile
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.13-01.14.11:798][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.13-01.14.11:798][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.13-01.14.11:810][  0]LogInit: Computer: LAPTOP-CPR2RP7G
+[2018.08.13-01.14.11:810][  0]LogInit: User: Emili
+[2018.08.13-01.14.11:811][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.13-01.14.11:811][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2018.08.13-01.14.11:811][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.08.13-01.14.11:811][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.13-01.14.11:811][  0]LogMemory: Process Physical Memory: 279.92 MB used, 279.92 MB peak
+[2018.08.13-01.14.11:811][  0]LogMemory: Process Virtual Memory: 282.61 MB used, 282.61 MB peak
+[2018.08.13-01.14.11:811][  0]LogMemory: Physical Memory: 5262.38 MB used,  2813.22 MB free, 8075.60 MB total
+[2018.08.13-01.14.11:811][  0]LogMemory: Virtual Memory: 4811.48 MB used,  2813.22 MB free, 134217728.00 MB total
+[2018.08.13-01.14.12:073][  0]LogInit: Using OS detected language (en-US).
+[2018.08.13-01.14.12:073][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.13-01.14.12:076][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.13-01.14.12:852][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.13-01.14.12:938][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.08.13-01.14.12:938][  0]LogD3D11RHI:       6061/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.13-01.14.12:963][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.08.13-01.14.12:964][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.13-01.14.12:969][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.13-01.14.12:969][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.13-01.14.12:969][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.13-01.14.12:989][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.13-01.14.12:989][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.13-01.14.12:989][  0]LogWindows: EnumDisplayDevices:
+[2018.08.13-01.14.12:990][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.08.13-01.14.12:990][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.08.13-01.14.12:990][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.08.13-01.14.12:990][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.08.13-01.14.12:991][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.13-01.14.12:991][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.08.13-01.14.12:991][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.13-01.14.12:991][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.13-01.14.12:991][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.08.13-01.14.13:023][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.13-01.14.13:035][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.13-01.14.13:087][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Intermediate/Shaders/WorkingDirectory/11288/).
+[2018.08.13-01.14.13:087][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Emili/AppData/Local/Temp/UnrealShaderWorkingDir/052A2D544B9ABCC61736CFAC733A26B0/'.
+[2018.08.13-01.14.13:087][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.13-01.14.13:942][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.13-01.14.14:001][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.13-01.14.14:062][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.13-01.14.14:121][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.13-01.14.14:178][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.13-01.14.14:236][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.13-01.14.14:294][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.13-01.14.14:350][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.13-01.14.14:406][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.13-01.14.14:470][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.13-01.14.14:528][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.13-01.14.14:586][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.13-01.14.14:646][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.13-01.14.14:701][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.13-01.14.14:758][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.13-01.14.14:873][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.13-01.14.14:874][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.13-01.14.14:917][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.13-01.14.15:039][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.13-01.14.15:077][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.13-01.14.15:141][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.13-01.14.15:200][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.13-01.14.15:262][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.13-01.14.15:318][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.13-01.14.15:318][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.13-01.14.15:992][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.13-01.14.16:110][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/Emili/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.13-01.14.16:110][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Emili/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.08.13-01.14.16:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.13-01.14.16:110][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.13-01.14.16:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.13-01.14.16:111][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.13-01.14.16:126][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.13-01.14.16:139][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Emili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.13-01.14.16:150][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.13-01.14.16:151][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.13-01.14.16:151][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.13-01.14.16:152][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.13-01.14.16:415][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2018.08.13-01.14.16:535][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.13-01.14.16:738][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.08.13-01.14.17:102][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.13-01.14.17:157][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.13-01.14.17:157][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.13-01.14.17:157][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.13-01.14.17:157][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.13-01.14.17:157][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.13-01.14.17:604][  0]LogNetVersion: FPSGame , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3581027628)
+[2018.08.13-01.14.17:847][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.046355 seconds
+[2018.08.13-01.14.17:853][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.08.13-01.14.17:853][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.08.13-01.14.17:853][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.13-01.14.17:928][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.13-01.14.20:940][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.13-01.14.21:002][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.13-01.14.21:979][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.13-01.14.22:442][  0]SourceControl: Source control is disabled
+[2018.08.13-01.14.22:442][  0]SourceControl: Source control is disabled
+[2018.08.13-01.14.22:502][  0]SourceControl: Source control is disabled
+[2018.08.13-01.14.22:560][  0]SourceControl: Source control is disabled
+[2018.08.13-01.14.23:281][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.13-01.14.23:584][  0]LogOcInput: OculusInput pre-init called
+[2018.08.13-01.14.23:889][  0]LogEngine: Initializing Engine...
+[2018.08.13-01.14.23:892][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.13-01.14.24:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.13-01.14.24:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-01.14.24:288][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.13-01.14.24:307][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.13-01.14.25:471][  0]LogInit: FAudioDevice initialized.
+[2018.08.13-01.14.25:553][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/Emili/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.08.13-01.14.25:576][  0]LogInit: Texture streaming: Enabled
+[2018.08.13-01.14.25:728][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.13-01.14.25:728][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={E6C47DB8-47A0-5442-90AA-898786AFF461}
+[2018.08.13-01.14.25:728][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={3E70E207-4DAC-BDFC-C3A7-A386C026DA57}
+[2018.08.13-01.14.25:977][  0]LogInit: Transaction tracking system initialized
+[2018.08.13-01.14.26:352][  0]BlueprintLog: New page: Editor Load
+[2018.08.13-01.14.27:491][  0]LocalizationService: Localization service is disabled
+[2018.08.13-01.14.28:330][  0]LogConsoleResponse: Display: 
+[2018.08.13-01.14.28:544][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.13-01.14.28:544][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.13-01.14.28:545][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.13-01.14.29:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/' took 0.01s
+[2018.08.13-01.14.29:814][  0]SourceControl: Source control is disabled
+[2018.08.13-01.14.29:814][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.13-01.14.29:815][  0]LightingResults: New page: Lighting Build
+[2018.08.13-01.14.29:871][  0]MapCheck: New page: Map Check
+[2018.08.13-01.14.29:871][  0]LightingResults: New page: Lighting Build
+[2018.08.13-01.14.30:058][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.13-01.14.30:068][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.13-01.14.30:103][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.13-01.14.30:174][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.694ms to complete.
+[2018.08.13-01.14.30:174][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.360
+[2018.08.13-01.14.30:361][  0]LogCollectionManager: Loaded 0 collections in 0.002524 seconds
+[2018.08.13-01.14.30:454][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Saved/Collections/' took 0.01s
+[2018.08.13-01.14.30:455][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/Developers/Emili/Collections/' took 0.01s
+[2018.08.13-01.14.30:455][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/Collections/' took 0.01s
+[2018.08.13-01.14.30:455][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.13-01.14.30:467][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2393 classes and 503 folders.
+[2018.08.13-01.14.30:543][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0037 seconds. Added 0 classes and 0 folders.
+[2018.08.13-01.14.30:587][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0031 seconds. Added 0 classes and 0 folders.
+[2018.08.13-01.14.30:641][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0039 seconds. Added 1 classes and 2 folders.
+[2018.08.13-01.14.30:666][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.13-01.14.30:669][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.13-01.14.30:674][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.13-01.14.30:778][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.08.13-01.14.30:985][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0035 seconds. Added 1 classes and 2 folders.
+[2018.08.13-01.14.30:986][  0]LogLoad: (Engine Initialization) Total time: 21.78 seconds
+[2018.08.13-01.14.30:986][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.13-01.14.30:986][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.13-01.14.31:005][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.13-01.14.31:024][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.13-01.14.31:069][  0]LogSlate: Took 0.000601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.13-01.14.31:080][  1]LogAssetRegistry: Asset discovery search completed in 14.6918 seconds
+[2018.08.13-01.14.31:083][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.13-01.14.31:083][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000175 seconds (updated 0 objects)
+[2018.08.13-01.14.58:443][273]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.13-01.14.58:484][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.13-01.14.58:485][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.13-01.14.58:485][273]PIE: New page: PIE session: FirstPersonExampleMap (Aug 12, 2018, 5:14:58 PM)
+[2018.08.13-01.14.58:486][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.08.13-01.14.58:520][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034330s)
+[2018.08.13-01.14.58:522][273]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.13-01.14.58:522][273]LogPlayLevel: PIE: World Init took: (0.002150s)
+[2018.08.13-01.14.58:523][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037598s)
+[2018.08.13-01.14.58:544][273]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.13-01.14.58:560][273]LogInit: FAudioDevice initialized.
+[2018.08.13-01.14.58:615][273]LogLoad: Game class is 'BP_GameMode_C'
+[2018.08.13-01.14.58:620][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.08.12-21.14.58
+[2018.08.13-01.14.58:621][273]LogWorld: Bringing up level for play took: 0.003052
+[2018.08.13-01.14.58:675][273]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0041 seconds. Added 11 classes and 0 folders.
+[2018.08.13-01.14.58:679][273]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap 0.892
+[2018.08.13-01.14.58:679][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.13-01.14.58:682][273]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:705][274]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:756][275]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:774][276]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:790][277]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:807][278]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:823][279]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:840][280]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:857][281]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:874][282]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:895][283]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:912][284]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:929][285]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:945][286]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:962][287]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:978][288]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.58:995][289]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:011][290]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:029][291]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:045][292]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:062][293]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:079][294]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:096][295]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:112][296]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:129][297]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:145][298]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:162][299]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:178][300]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:195][301]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:211][302]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:228][303]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:244][304]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:261][305]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:279][306]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:296][307]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:311][308]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:329][309]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:345][310]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:362][311]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:380][312]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:396][313]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:413][314]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:429][315]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:445][316]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:461][317]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:479][318]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:495][319]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:512][320]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:528][321]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:548][322]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:563][323]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:583][324]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:595][325]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:613][326]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:628][327]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:645][328]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:661][329]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:681][330]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:695][331]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:712][332]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:728][333]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:745][334]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:761][335]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:781][336]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:795][337]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:813][338]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:828][339]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:846][340]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:861][341]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:879][342]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:895][343]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:912][344]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:928][345]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:946][346]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:961][347]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:981][348]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.14.59:995][349]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:015][350]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:029][351]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:047][352]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:061][353]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:078][354]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:095][355]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:112][356]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:129][357]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:149][358]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:165][359]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:182][360]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:198][361]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:215][362]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:232][363]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:248][364]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:265][365]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:282][366]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:298][367]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:315][368]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:332][369]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:349][370]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:365][371]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:382][372]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:398][373]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:415][374]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:431][375]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:449][376]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:465][377]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:481][378]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:498][379]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:516][380]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:532][381]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:549][382]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:565][383]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:583][384]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:598][385]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:616][386]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:632][387]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:649][388]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:665][389]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:683][390]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:699][391]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:719][392]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:733][393]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:750][394]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:766][395]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:785][396]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:799][397]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:816][398]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:832][399]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:849][400]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:865][401]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:886][402]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:899][403]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:916][404]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:933][405]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:949][406]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:965][407]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:983][408]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.00:998][409]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:016][410]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:032][411]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:049][412]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:065][413]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:082][414]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:099][415]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:115][416]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:132][417]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:150][418]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:166][419]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:185][420]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:198][421]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:217][422]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:233][423]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:250][424]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:266][425]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:282][426]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:299][427]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:315][428]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:332][429]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:348][430]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:365][431]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:384][432]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:399][433]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:418][434]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:432][435]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:450][436]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:466][437]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:483][438]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:499][439]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:517][440]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:532][441]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:550][442]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:566][443]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:582][444]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:599][445]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:617][446]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:634][447]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:650][448]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:667][449]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:684][450]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:699][451]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:716][452]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:733][453]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:749][454]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:767][455]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:783][456]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:799][457]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:817][458]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:833][459]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:850][460]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:866][461]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:883][462]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:900][463]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:916][464]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:933][465]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:950][466]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:966][467]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.01:984][468]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:000][469]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:016][470]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:032][471]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:050][472]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:066][473]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:083][474]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:099][475]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:117][476]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:133][477]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:152][478]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:167][479]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:183][480]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:200][481]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:220][482]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:233][483]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:252][484]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:266][485]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:283][486]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:300][487]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:318][488]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:333][489]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:350][490]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:366][491]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:384][492]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:399][493]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:416][494]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:432][495]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:449][496]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:466][497]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: false
+[2018.08.13-01.15.02:483][498]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:500][499]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:516][500]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:532][501]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:552][502]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:569][503]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:583][504]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:600][505]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:617][506]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:633][507]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:650][508]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:667][509]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:682][510]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:699][511]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:716][512]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:732][513]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:749][514]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:767][515]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:785][516]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:800][517]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:817][518]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:833][519]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:850][520]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:867][521]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:884][522]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:906][523]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:917][524]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:933][525]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:949][526]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:966][527]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:982][528]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.02:999][529]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:016][530]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:033][531]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:049][532]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:066][533]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:082][534]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:099][535]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:117][536]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:134][537]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:151][538]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:169][539]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:183][540]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:201][541]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:217][542]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:234][543]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:253][544]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:268][545]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:284][546]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:300][547]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:317][548]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:332][549]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:349][550]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:366][551]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:382][552]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:399][553]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:417][554]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:433][555]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:452][556]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:468][557]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:487][558]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:499][559]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:517][560]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:533][561]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:550][562]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:568][563]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:583][564]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:599][565]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:616][566]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:633][567]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:650][568]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:666][569]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:683][570]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:700][571]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:716][572]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:732][573]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:749][574]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:766][575]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:782][576]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:799][577]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:816][578]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:833][579]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:849][580]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:866][581]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:883][582]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:901][583]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:921][584]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:934][585]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:953][586]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:968][587]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.03:984][588]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:004][589]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:019][590]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:034][591]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:050][592]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:067][593]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:084][594]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:100][595]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:116][596]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:133][597]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:150][598]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:167][599]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:183][600]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:199][601]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:217][602]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:233][603]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:251][604]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:267][605]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:283][606]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:300][607]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:318][608]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:334][609]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:353][610]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:368][611]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:387][612]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:403][613]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:421][614]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:433][615]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:450][616]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:467][617]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:484][618]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:500][619]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:520][620]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:534][621]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:550][622]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:567][623]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:584][624]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:599][625]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:617][626]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:633][627]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:649][628]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:666][629]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:685][630]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:699][631]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:719][632]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:733][633]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:750][634]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:766][635]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:783][636]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:800][637]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:817][638]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:833][639]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:849][640]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:866][641]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:884][642]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:900][643]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:917][644]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:933][645]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:950][646]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:967][647]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.04:984][648]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:000][649]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:017][650]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:034][651]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:049][652]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:066][653]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:083][654]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:099][655]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:116][656]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:133][657]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:150][658]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:167][659]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:183][660]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:199][661]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:217][662]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:233][663]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:250][664]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:268][665]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:283][666]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:300][667]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:317][668]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:333][669]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:350][670]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:367][671]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:384][672]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:400][673]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:419][674]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:434][675]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:451][676]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:467][677]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:484][678]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:499][679]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:517][680]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:534][681]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:550][682]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:567][683]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:584][684]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:600][685]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:616][686]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:633][687]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:650][688]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:667][689]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:684][690]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:700][691]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:717][692]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:734][693]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:750][694]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:768][695]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:786][696]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:801][697]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:817][698]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:833][699]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:850][700]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:867][701]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:884][702]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:901][703]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:917][704]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:934][705]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:950][706]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:967][707]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.05:984][708]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:000][709]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:018][710]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:035][711]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:050][712]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:067][713]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:084][714]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:100][715]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:118][716]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:134][717]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:151][718]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:167][719]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:184][720]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:201][721]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:218][722]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:234][723]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:250][724]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:267][725]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:284][726]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:300][727]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:318][728]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:335][729]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:350][730]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:368][731]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:384][732]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:400][733]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:418][734]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:434][735]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:451][736]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:468][737]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:484][738]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:500][739]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:518][740]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:534][741]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:551][742]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:567][743]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:584][744]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:599][745]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:617][746]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:635][747]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:652][748]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:668][749]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:684][750]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:700][751]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:718][752]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:734][753]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:751][754]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:767][755]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:785][756]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:800][757]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:817][758]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:833][759]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:851][760]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:866][761]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:885][762]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:900][763]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:918][764]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:933][765]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:950][766]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:966][767]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.06:983][768]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:000][769]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:016][770]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:033][771]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:051][772]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:067][773]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:084][774]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:100][775]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:117][776]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:134][777]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:152][778]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:167][779]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:184][780]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:199][781]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:217][782]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:233][783]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:250][784]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:267][785]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:284][786]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:300][787]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:317][788]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:333][789]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:351][790]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:367][791]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:385][792]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:401][793]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:417][794]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:434][795]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:451][796]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:467][797]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:485][798]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:501][799]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:518][800]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:533][801]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:552][802]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:567][803]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:583][804]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:600][805]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:617][806]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:633][807]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:651][808]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:667][809]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:687][810]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:700][811]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:718][812]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:733][813]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:751][814]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:767][815]LogTemp: Overlapped with extraction zone!!
+[2018.08.13-01.15.07:767][815]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:785][816]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:800][817]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:817][818]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:834][819]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:851][820]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:867][821]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:884][822]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:901][823]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:917][824]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:934][825]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:950][826]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:967][827]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.07:985][828]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:000][829]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:017][830]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:033][831]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:051][832]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:066][833]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:084][834]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:100][835]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:118][836]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:133][837]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:151][838]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:167][839]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:186][840]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:200][841]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:218][842]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:233][843]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:251][844]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:267][845]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:286][846]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:301][847]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:318][848]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:333][849]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:350][850]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:366][851]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:385][852]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:401][853]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:418][854]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:434][855]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:453][856]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:470][857]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:488][858]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:501][859]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:519][860]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:535][861]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:553][862]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:569][863]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:586][864]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:603][865]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:618][866]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:634][867]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:656][868]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:668][869]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:686][870]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:701][871]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:719][872]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:734][873]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:752][874]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:767][875]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:787][876]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:800][877]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:817][878]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:833][879]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:851][880]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:867][881]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:886][882]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:901][883]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:918][884]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:935][885]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:951][886]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:968][887]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.08:985][888]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:000][889]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:017][890]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:036][891]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:051][892]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:068][893]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:086][894]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:101][895]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:119][896]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:135][897]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:154][898]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:170][899]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:187][900]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:204][901]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:221][902]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:235][903]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:258][904]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:270][905]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:287][906]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:302][907]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:321][908]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:335][909]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:353][910]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:368][911]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:386][912]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:402][913]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:419][914]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:435][915]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:453][916]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:469][917]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:485][918]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:503][919]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:519][920]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:535][921]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:552][922]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:570][923]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:586][924]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:603][925]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:619][926]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:635][927]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:652][928]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:669][929]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:686][930]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:703][931]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:720][932]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:735][933]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:753][934]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:769][935]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:786][936]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:803][937]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:820][938]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:836][939]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:854][940]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:869][941]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:886][942]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:903][943]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:919][944]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:936][945]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:952][946]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:970][947]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.09:986][948]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:002][949]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:019][950]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:035][951]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:052][952]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:069][953]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:086][954]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:102][955]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:119][956]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:135][957]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:152][958]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:169][959]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:187][960]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:203][961]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:222][962]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:240][963]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:253][964]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:269][965]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:287][966]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:302][967]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:319][968]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:336][969]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:353][970]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:370][971]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:386][972]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:403][973]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:419][974]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:436][975]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:453][976]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:470][977]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:487][978]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:502][979]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:518][980]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:536][981]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:552][982]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:569][983]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:585][984]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:603][985]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:619][986]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:636][987]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:653][988]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:669][989]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:686][990]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:702][991]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:719][992]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:736][993]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:752][994]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:769][995]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:786][996]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:802][997]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:819][998]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:836][999]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:852][  0]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:868][  1]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:886][  2]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:903][  3]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:919][  4]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:935][  5]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:952][  6]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:969][  7]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.10:986][  8]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:003][  9]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:019][ 10]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:036][ 11]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:053][ 12]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:069][ 13]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:085][ 14]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:102][ 15]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:119][ 16]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:136][ 17]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:153][ 18]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:169][ 19]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:186][ 20]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:203][ 21]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:219][ 22]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:236][ 23]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:253][ 24]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:269][ 25]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:285][ 26]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:305][ 27]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:320][ 28]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:337][ 29]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:353][ 30]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:370][ 31]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:387][ 32]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:403][ 33]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:420][ 34]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:437][ 35]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:453][ 36]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:469][ 37]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:486][ 38]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:503][ 39]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:519][ 40]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:536][ 41]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:552][ 42]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:569][ 43]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:585][ 44]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:603][ 45]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:619][ 46]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:636][ 47]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:654][ 48]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:669][ 49]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:687][ 50]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:703][ 51]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:719][ 52]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:736][ 53]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:753][ 54]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:769][ 55]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:786][ 56]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:802][ 57]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:820][ 58]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:836][ 59]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:853][ 60]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:869][ 61]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:886][ 62]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:902][ 63]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:919][ 64]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:935][ 65]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:952][ 66]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:968][ 67]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.11:985][ 68]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:002][ 69]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:019][ 70]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:035][ 71]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:053][ 72]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:069][ 73]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:085][ 74]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:102][ 75]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:119][ 76]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:136][ 77]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:152][ 78]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:169][ 79]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:186][ 80]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:202][ 81]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:219][ 82]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:236][ 83]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:253][ 84]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:269][ 85]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:286][ 86]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:302][ 87]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:319][ 88]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:336][ 89]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:352][ 90]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:370][ 91]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:386][ 92]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:403][ 93]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:419][ 94]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:438][ 95]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:453][ 96]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:470][ 97]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:486][ 98]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:502][ 99]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:518][100]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:536][101]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:552][102]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:571][103]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:585][104]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:603][105]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:619][106]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:638][107]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:653][108]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:670][109]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:686][110]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:704][111]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:719][112]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:737][113]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:753][114]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:769][115]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:786][116]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:803][117]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:819][118]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:837][119]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:853][120]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:869][121]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:886][122]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:904][123]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:919][124]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:936][125]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:952][126]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:969][127]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.12:986][128]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:003][129]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:019][130]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:036][131]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:053][132]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:070][133]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:086][134]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:102][135]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:119][136]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:136][137]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:153][138]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:170][139]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:186][140]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:202][141]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:219][142]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:236][143]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:253][144]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:269][145]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:285][146]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:303][147]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:319][148]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:336][149]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:352][150]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:369][151]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:386][152]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:403][153]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:419][154]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:435][155]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:452][156]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:470][157]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:485][158]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:503][159]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:519][160]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:535][161]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:552][162]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:569][163]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:585][164]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:602][165]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:619][166]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:637][167]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:653][168]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:669][169]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:688][170]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:706][171]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:720][172]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:737][173]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:753][174]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:770][175]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:787][176]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:804][177]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:820][178]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:837][179]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:853][180]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:869][181]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:887][182]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:904][183]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:921][184]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:939][185]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:954][186]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:970][187]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.13:988][188]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:003][189]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:020][190]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:037][191]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:053][192]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:070][193]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:087][194]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:105][195]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:122][196]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:137][197]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:153][198]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:169][199]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:188][200]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:204][201]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:219][202]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:237][203]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:253][204]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:269][205]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:287][206]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:303][207]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:320][208]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:337][209]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:354][210]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:370][211]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:388][212]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:403][213]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:420][214]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:436][215]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:453][216]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:470][217]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:487][218]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:503][219]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:520][220]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:537][221]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:553][222]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:570][223]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:586][224]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:603][225]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:620][226]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:637][227]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:653][228]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:670][229]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:686][230]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:704][231]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:720][232]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:736][233]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:752][234]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:769][235]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:787][236]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:803][237]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:819][238]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:836][239]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:853][240]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:869][241]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:886][242]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:903][243]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:920][244]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:938][245]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:953][246]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:970][247]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.14:986][248]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:003][249]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:020][250]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:036][251]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:053][252]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:070][253]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:087][254]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:103][255]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:120][256]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:137][257]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:153][258]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:171][259]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:187][260]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:203][261]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:220][262]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:237][263]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:253][264]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:269][265]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:285][266]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:303][267]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:320][268]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:336][269]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:353][270]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:370][271]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:388][272]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:403][273]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:422][274]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:437][275]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:453][276]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:469][277]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:487][278]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:503][279]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:520][280]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:537][281]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:553][282]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:569][283]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:586][284]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:602][285]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:619][286]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:636][287]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:653][288]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:670][289]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:687][290]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:704][291]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:721][292]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:737][293]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:753][294]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:770][295]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:785][296]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:802][297]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:819][298]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:836][299]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:852][300]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:869][301]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:886][302]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:903][303]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:920][304]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:936][305]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:953][306]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:970][307]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.15:987][308]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:003][309]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:020][310]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:038][311]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:053][312]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:069][313]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:087][314]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:103][315]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:120][316]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:136][317]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:153][318]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:170][319]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:188][320]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:203][321]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:222][322]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:237][323]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:254][324]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:270][325]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:286][326]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:302][327]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:320][328]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:336][329]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:353][330]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:370][331]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:386][332]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:403][333]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:421][334]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:437][335]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:453][336]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:469][337]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:486][338]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:503][339]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:520][340]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:536][341]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:553][342]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:570][343]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:586][344]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:603][345]LogBlueprintUserMessages: [BP_Player_2] Carrying Objective: true
+[2018.08.13-01.15.16:604][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.13-01.15.16:649][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.13-01.15.46:908][544]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.13-01.15.47:118][545]Cmd: QUIT_EDITOR
+[2018.08.13-01.15.47:331][545]LogExit: Preparing to exit.
+[2018.08.13-01.15.47:721][545]LogDirectoryWatcher: A directory notification for 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/' was aborted.
+[2018.08.13-01.15.47:738][545]LogExit: Editor shut down
+[2018.08.13-01.15.47:742][545]LogExit: Transaction tracking system shut down
+[2018.08.13-01.15.47:897][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.13-01.15.47:898][545]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/' was aborted.
+[2018.08.13-01.15.47:898][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.13-01.15.47:898][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.13-01.15.47:898][545]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.13-01.15.47:943][545]LogExit: Object subsystem successfully closed.
+[2018.08.13-01.15.47:976][545]LogD3D11RHI: Shutdown
+[2018.08.13-01.15.47:976][545]LogD3D11RHI: CleanupD3DDevice
+[2018.08.13-01.15.48:053][545]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.13-01.15.48:071][545]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2018.08.13-01.15.48:071][545]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2018.08.13-01.15.48:071][545]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.08.13-01.15.48:072][545]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.08.13-01.15.48:072][545]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.08.13-01.15.48:074][545]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.08.13-01.15.48:074][545]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.08.13-01.15.48:074][545]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.08.13-01.15.48:074][545]LogDirectoryWatcher: A directory notification for 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/Collections/' was aborted.
+[2018.08.13-01.15.48:074][545]LogDirectoryWatcher: A directory notification for 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Content/Developers/Emili/Collections/' was aborted.
+[2018.08.13-01.15.48:075][545]LogDirectoryWatcher: A directory notification for 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Saved/Collections/' was aborted.
+[2018.08.13-01.15.48:075][545]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2018.08.13-01.15.48:075][545]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2018.08.13-01.15.48:075][545]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2018.08.13-01.15.48:075][545]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2018.08.13-01.15.48:075][545]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2018.08.13-01.15.48:075][545]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2018.08.13-01.15.48:076][545]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module Media (479)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2018.08.13-01.15.48:077][545]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2018.08.13-01.15.48:078][545]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2018.08.13-01.15.48:079][545]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2018.08.13-01.15.48:079][545]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2018.08.13-01.15.48:361][545]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2018.08.13-01.15.48:361][545]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2018.08.13-01.15.48:362][545]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2018.08.13-01.15.48:363][545]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2018.08.13-01.15.48:364][545]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2018.08.13-01.15.48:418][545]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2018.08.13-01.15.48:418][545]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2018.08.13-01.15.48:418][545]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2018.08.13-01.15.48:418][545]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2018.08.13-01.15.48:418][545]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2018.08.13-01.15.48:418][545]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2018.08.13-01.15.48:419][545]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2018.08.13-01.15.48:419][545]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2018.08.13-01.15.48:419][545]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2018.08.13-01.15.48:419][545]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2018.08.13-01.15.48:420][545]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2018.08.13-01.15.48:421][545]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2018.08.13-01.15.48:458][545]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2018.08.13-01.15.48:459][545]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2018.08.13-01.15.48:459][545]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2018.08.13-01.15.48:459][545]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2018.08.13-01.15.48:459][545]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2018.08.13-01.15.48:459][545]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2018.08.13-01.15.48:460][545]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2018.08.13-01.15.48:461][545]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2018.08.13-01.15.48:462][545]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.08.13-01.15.48:464][545]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.08.13-01.15.48:464][545]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2018.08.13-01.15.48:464][545]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2018.08.13-01.15.48:464][545]LogDirectoryWatcher: A directory notification for 'C:/Users/Emili/Documents/Unreal Projects/StealthGame/StealthGameTemplate417/Binaries/Win64' was aborted.
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module FPSGame (262)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.08.13-01.15.48:465][545]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.08.13-01.15.48:566][545]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.08.13-01.15.48:668][545]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.08.13-01.15.48:668][545]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.08.13-01.15.48:668][545]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.08.13-01.15.48:669][545]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.08.13-01.15.48:669][545]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.08.13-01.15.48:669][545]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.08.13-01.15.48:670][545]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.08.13-01.15.48:671][545]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.08.13-01.15.48:671][545]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.08.13-01.15.48:671][545]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.08.13-01.15.48:677][545]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.08.13-01.15.48:678][545]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.08.13-01.15.48:681][545]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.08.13-01.15.48:682][545]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.08.13-01.15.48:682][545]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.08.13-01.15.48:938][545]LogDerivedDataCache: Shutdown
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.08.13-01.15.48:939][545]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.08.13-01.15.48:940][545]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.08.13-01.15.48:940][545]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.08.13-01.15.48:941][545]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.08.13-01.15.48:941][545]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.08.13-01.15.48:942][545]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.08.13-01.15.48:943][545]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.13-01.15.48:944][545]LogOnline: Display: Unloading online subsystem: NULL
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.13-01.15.48:944][545]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.13-01.15.48:944][545]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.13-01.15.48:944][545]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B218E44C1-4152-3988-7CE1-30A622C5B6EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=8a3fa4854b71720ff7da748c57c93708%7C2b3ed6da9b7e40d6bb2628944525f220%7Ca093421b-c50f-4930-a940-065bdbec5309&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.13-01.15.48:959][545]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.13-01.15.48:961][545]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.13-01.15.48:961][545]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.13-01.15.48:961][545]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.13-01.15.48:962][545]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.13-01.15.48:964][545]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.13-01.15.48:964][545]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.13-01.15.48:964][545]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.13-01.15.48:966][545]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.13-01.15.48:966][545]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.13-01.15.48:966][545]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.13-01.15.48:967][545]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.13-01.15.48:977][545]LogExit: Exiting.
+[2018.08.13-01.15.48:989][545]Log file closed, 08/12/18 21:15:48
